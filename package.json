@@ -16,6 +16,12 @@
     "metro-react-native-babel-preset": "0.48.0",
     "react-test-renderer": "16.5.0"
   },
+  "resolutions": {
+    "metro": "^0.48.1",
+    "metro-babel-register": "^0.48.1",
+    "metro-core": "^0.48.1",
+    "metro-memory-fs": "^0.48.1"
+  },
   "jest": {
     "preset": "react-native"
   }
